@@ -251,7 +251,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Spencer Sharp - Software designer, founder, and amateur astronaut
+          Abdulaziz - NV21065
         </title>
         <meta
           name="description"
