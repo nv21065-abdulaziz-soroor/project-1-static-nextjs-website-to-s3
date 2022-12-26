@@ -255,19 +255,19 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m zizo, a Cloud computing still studying as a student in school."
+          content="I’m Abdulaziz, a Cloud computing student studying in NVTC."
         />
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software Engineer, founder, and amateur astronaut.
+            Cloud computing student, in NVTC.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m zizo, a Cloud computing student and engineer based in Bahrain,
+            I’m Abdulaziz, a Cloud computing student and engineer based in Bahrain,
             studying in NVTC.
             in NVTC we try our best to give all what we got, where we develop
-            technologies that empower regular people to explore space on their
+            technologies that empower regular people to explore on their
             own terms.
           </p>
           <div className="mt-6 flex gap-6">
